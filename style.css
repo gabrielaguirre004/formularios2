@@ -1,0 +1,22 @@
+.col-12{
+    background-color: aqua;
+    width: 50%;
+   
+}
+.col-6 {
+    background-color:lightcoral;
+    height:100%;
+    
+}
+.h3 {
+    text-size-adjust:10px;
+    margin-top:30px;
+
+}
+.img src{
+    max-width:220px;
+    max-height:700px;
+}
+.button{
+    text-decoration-color: black;
+}
